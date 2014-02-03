@@ -1,0 +1,8 @@
+NB. I Have tried to make requests with HTTPWebRequest and WebResponse etc but could not get the streamReader to display the content correctly, as i am still in the learning phase with asp.net I have chosen instead to create a windows form application with the emailed program specs.
+
+What i did was copy the top 20 from the IMDB link and read them into an array which generates a random movie name and bases the scores on the user input, the program runs for 8 turns, changes labels accordingly, pops up a messagebox indicating which player wins and then resets itself.
+
+I have done this honestly to the best of my ability without any help from google.
+
+Regards
+Akash Harilall
